@@ -1,2 +1,3 @@
-Olá isso é um teste para uso do git
-Isso é uma alteração
+Olá, isso é um teste para aprender a usar o git.
+
+* Este projeto teste é baseado no da Rafaela Ballerine
